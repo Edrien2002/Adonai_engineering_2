@@ -81,6 +81,60 @@ document.addEventListener('DOMContentLoaded', function() {
             image: "images/2.jpeg"
         },
         {
+            id: "9",
+            title: "Site One",
+            category: "Construction",
+            location: "",
+            year: "2024",
+            description: "",
+            image: "images/9.jpeg"
+        },
+        {
+            id: "10",
+            title: "Site One",
+            category: "Construction",
+            location: "",
+            year: "2024",
+            description: "",
+            image: "images/10.jpeg"
+        },
+        {
+            id: "8",
+            title: "Site Two",
+            category: "Construction",
+            location: "",
+            year: "2022",
+            description: "",
+            image: "images/8.jpeg"
+        },
+        {
+            id: "7",
+            title: "Site Two",
+            category: "Construction",
+            location: "",
+            year: "2022",
+            description: "",
+            image: "images/7.jpeg"
+        },
+        {
+            id: "13",
+            title: "Site Three",
+            category: "Construction",
+            location: "",
+            year: "",
+            description: "",
+            image: "images/13.jpeg"
+        },
+        {
+            id: "11",
+            title: "Site Four",
+            category: "Construction",
+            location: "",
+            year: "",
+            description: "",
+            image: "images/11.jpeg"
+        },
+        {
             id: "34",
             title: "Mukono Estate Land Survey",
             category: "Surveying",
@@ -101,20 +155,20 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             id: "17",
-            title: "Bushenyi Rental Units - Plumbing Works",
+            title: "Arua- Plumbing Works",
             category: "Plumbing Works",
-            location: "Bushenyi",
-            year: "2023",
-            description: "Sanitary installations and pipe work for plumbing of six self-contained rental units.",
+            location: "Arua",
+            year: "",
+            description: "",
             image: "images/17.jpeg"
         },
         {
             id: "18",
-            title: "Bushenyi Rental Units - Plumbing Works",
+            title: "Entebbe - Plumbing Works",
             category: "Plumbing Works",
-            location: "Bushenyi",
-            year: "2023",
-            description: "Sanitary installations and pipe work for plumbing of six self-contained rental units.",
+            location: "Entebbe",
+            year: "",
+            description: "",
             image: "images/18.jpeg"
         },
         {
@@ -137,39 +191,48 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             id: "23",
-            title: "Ntinda Apartments — Interior Fit-Out",
+            title: "Hoima — Interior Fit-Out",
             category: "Interior & Exterior",
-            location: "Ntinda, Kampala",
-            year: "2024",
-            description: "Interior finishing, painting and fittings across an eight-unit apartment block.",
+            location: "Hoima",
+            year: "",
+            description: "",
             image: "images/23.jpeg"
         },
         {
             id: "25",
-            title: "Ntinda Apartments — Interior Fit-Out",
+            title: "Nsagi — Interior Fit-Out",
             category: "Interior & Exterior",
-            location: "Ntinda, Kampala",
-            year: "2024",
-            description: "Interior finishing, painting and fittings across an eight-unit apartment block.",
+            location: "Nsagi",
+            year: "",
+            description: "",
             image: "images/25.jpeg"
         },
         {
-            id: "25",
-            title: "Ntinda Apartments — Interior Fit-Out",
+            id: "19",
+            title: "Luwero — Interior Fit-Out",
             category: "Interior & Exterior",
-            location: "Ntinda, Kampala",
-            year: "2024",
-            description: "Interior finishing, painting and fittings across an eight-unit apartment block.",
-            image: "images/25.jpeg"
+            location: "Luwero",
+            year: "",
+            description: "",
+            image: "images/19.jpeg"
         },
         {
             id: "26",
-            title: "Ntinda Apartments — Interior Fit-Out",
+            title: "Kagansi — Interior Fit-Out",
             category: "Interior & Exterior",
-            location: "Ntinda, Kampala",
-            year: "2024",
-            description: "Interior finishing, painting and fittings across an eight-unit apartment block.",
+            location: "Kagansi",
+            year: "",
+            description: "",
             image: "images/26.jpeg"
+        },
+        {
+            id: "24",
+            title: "Ibanda — Interior Fit-Out",
+            category: "Interior & Exterior",
+            location: "Ibanda",
+            year: "",
+            description: "",
+            image: "images/24.jpeg"
         },
         {
             id: "14",
@@ -182,35 +245,35 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             id: "15",
-            title: "Gulu Residential House — Material Procurement",
+            title: "Material Procurement",
             category: "Material Procurement",
-            location: "Gulu Town",
-            year: "2023",
-            description: "Supply and delivery of sand, gravel and hardcore for foundation, slab and general construction works.",
+            location: "",
+            year: "",
+            description: "",
             image: "images/15.jpeg"
         },
 
         {
             id: "36",
-            title: "",
+            title: "Mukono - Architectural Design",
             category: "Architectural Design",
-            location: "",
+            location: "Mukono",
             year: "",
             description: "",
             image: "images/36.jpeg"
         },
         {
             id: "35",
-            title: "",
+            title: "Kyengera - Architectural Design",
             category: "Architectural Design",
-            location: "",
+            location: "Kyengera",
             year: "",
             description: "",
             image: "images/35.jpeg"
         },
         {
             id: "37",
-            title: "",
+            title: "Architectural Drawing",
             category: "Architectural Design",
             location: "",
             year: "",
